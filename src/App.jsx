@@ -164,9 +164,7 @@ function App() {
             <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent">
               <div className="flex gap-4 items-center">
                 <i className="text-4xl ri-arrow-down-line"></i>
-                <h3 className="text-xl font-[Helvetica_Now_Display]">
-                  Scroll Down
-                </h3>
+                <h3 className="text-xl font-roboto">Scroll Down</h3>
               </div>
               <img
                 className="absolute h-[55px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
@@ -193,26 +191,30 @@ function App() {
                 {/* FIX: Corrected Headings to match desired output */}
                 <h1 className="text-8xl">STAY GROUNDED,</h1>
                 <h1 className="text-8xl">RUN WILD</h1>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto eveniet saepe, ducimus necessitatibus at
-                  voluptate.
+                <p className="mt-10 text-xl font-roboto font-light">
+                  Inspired by Grand Theft Auto, this project brings a slice of
+                  that untamed energy into the web world.
                 </p>
-                <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+
+                <p className="mt-3 text-xl font-roboto font-light text-white">
+                  Created by{" "}
+                  <a
+                    href="https://www.linkedin.com/in/rajat-bhakte/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-yellow-400 underline hover:text-yellow-500 transition-colors duration-300"
+                  >
+                    Rajat Bhakte
+                  </a>
+                  , it’s a fan project that blends gaming culture with web
+                  creativity.
                 </p>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit eligendi nesciunt quia similique velit
-                  excepturi soluta tenetur illo repellat consectetur laborum
-                  eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
-                  autem sapiente.
+
+                <p className="mt-10 text-xl font-roboto font-light">
+                  Stay grounded, run wild, and enjoy the ride through this
+                  digital city.
                 </p>
+
                 {/* FIX: Added flex items-center justify-center to center button text */}
                 <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl flex items-center justify-center">
                   Download Now

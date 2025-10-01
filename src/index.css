@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
 @import "tailwindcss";
 
 @font-face {
-  font-family: "pricedown";
-  src: url("./pricedown.otf");
+  font-family: "Pricedown";
+  src: url("/fonts/pricedown.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 html,
 body {
   width: 100%;
   height: 100%;
-  font-family: "pricedown";
+  font-family: "Pricedown", sans-serif;
 }
