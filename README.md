@@ -1,16 +1,96 @@
-# React + Vite
+🎮 GTA-Inspired Landing Page (Fan Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A GTA-style animated landing page inspired by the bold visuals and energetic vibe of Grand Theft Auto.
+This project blends gaming aesthetics with modern web design to create a visually striking experience.
 
-Currently, two official plugins are available:
+⚠️ Disclaimer: This is a fan-made project created for learning and practice purposes only.
+It is not affiliated with or endorsed by Rockstar Games.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔥 Live Demo
 
-## React Compiler
+👉 Live Website: https://gta-website-tau.vercel.app/
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🖼️ Preview
 
-## Expanding the ESLint configuration
+GTA-inspired hero section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Bold typography & vibrant colors
+
+Smooth scrolling experience
+
+Rockstar-style visual storytelling
+
+✨ Features
+
+🎨 GTA-inspired UI & color palette
+
+🖼️ High-quality illustrated visuals
+
+📱 Fully responsive design
+
+⚡ Fast loading & optimized assets
+
+🧩 Clean and structured code
+
+🛠️ Built With
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Vercel (for deployment)
+
+📂 Project Structure
+gta-website/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── fonts/
+└── README.md
+
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/gta-website.git
+
+2️⃣ Open the project
+
+Just open index.html in your browser
+OR use Live Server in VS Code.
+
+🎯 Purpose of This Project
+
+Practice modern frontend development
+
+Experiment with game-inspired UI design
+
+Improve skills in layout, typography, and visuals
+
+Build a strong portfolio project
+
+👨‍💻 Author
+
+Rajat Bhakte
+
+Engineering Student | Frontend Developer
+
+Passionate about web development & UI design
+
+⚠️ Disclaimer
+
+All images, styles, and inspirations are used strictly for educational purposes.
+All rights related to GTA and Rockstar Games belong to their respective owners.
+
+⭐ Support
+
+If you liked this project:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🧠 Use it for learning & inspiration
