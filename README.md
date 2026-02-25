@@ -49,7 +49,7 @@ Copy code
 ## 🚀 Getting Started
 
 ### Clone the repository
-git clone https://github.com/your-username/gta-website.git
+git clone https://github.com/Rajat-7271/gta-website.git
 
 yaml
 Copy code
